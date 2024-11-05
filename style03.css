@@ -1,0 +1,16 @@
+div {
+    width: 200px;
+    height: 100px;
+    margin:20px;
+    padding: 10px;
+}
+
+#caixa1 {
+    background-color: aqua;
+    border: solid 2px;
+}
+
+#caixa2 {
+    background-color: rgb(112, 123, 207);
+    border: solid 2px;
+}
